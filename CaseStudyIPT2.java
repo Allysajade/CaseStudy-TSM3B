@@ -54,7 +54,7 @@ public class Ordering {
     public void payment(){
          Scanner cs = new Scanner(System.in);
          
-         System.out.println("");
+         System.out.println("\n");
          System.out.println("Way of payment");
          System.out.println("1. COD");
          System.out.println("2. Card");
